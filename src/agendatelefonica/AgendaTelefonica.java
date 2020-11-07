@@ -35,7 +35,7 @@ public class AgendaTelefonica {
         System.out.println("Escribe tu número telefónico: ");
         NumTelefono=teclado.nextLine();
         
-        System.out.println("El contacto " + nombre + apellidoP + apellidoM + NumTelefono + "ha quedado registrado");
+        System.out.println("El contacto " + nombre +" " + apellidoP + "  "+ apellidoM+" " + NumTelefono + "ha quedado registrado");
         // TODO code application logic here
     }
     
